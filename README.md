@@ -1,4 +1,4 @@
-# E-commerce Website
+# E-commerce Backend
 
 ## Deployed Application
 [Click here to watch a short video of the deployed application](https://drive.google.com/file/d/1LwDd1mVizDjMO1Hg3k9nvdl0AVe8Xe7u/view)
